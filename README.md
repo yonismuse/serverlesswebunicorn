@@ -1,4 +1,4 @@
-<h1>Deploying Serverless Web Application in AWS</h1>
+<h1>Deploying a Serverless Web Application in AWS</h1>
 
  ### [YouTube Demonstration](https://youtu.be/pKTK4QN8fXY)
 
