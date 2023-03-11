@@ -5,7 +5,7 @@
 <h2>Description</h2>
 Project consists of deploying a serverless web application on AWS using AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito. The project is based on AWS's tutorial and so for more info I would check out this link: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/. 
 
-Expect this project to take at least 2 hours to make.
+
 
 <h2>Program video walk-through:</h2>
 
